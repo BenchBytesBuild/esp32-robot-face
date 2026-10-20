@@ -1,0 +1,13 @@
+{
+  "title": { "en": "ESP32 Robot Face", "ja": "ESP32ロボットフェイス" },
+  "summary": {
+    "en": "A little robot face on an ESP32: animated eyes you steer with a gamepad, a 7-segment display for a mouth, and a touch sensor so you can pet it.",
+    "ja": "ESP32で動く小さなロボットの顔。ゲームパッドで動かせるアニメーションの目、7セグメントディスプレイの口、なでると反応するタッチセンサー付き。"
+  },
+  "next": {
+    "en": "Pick the parts and sketch the wiring.",
+    "ja": "部品を選んで、配線図を描く。"
+  },
+  "progress": 5,
+  "tags": ["ESP32", "Hardware", "Gamepad", "Touch"]
+}
